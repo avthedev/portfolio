@@ -4,7 +4,7 @@
       "visible": true,
       "category": "",
       "title": "Restaurant Reservation",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
+      "description": "This is a project made for a restaurant to use for taking and keeping track of reservations, along with their tables and past reservations. The layout is meant to be user friendly and intuitive. This is for restaurant use and not ready for customers, because they would have access to manipulate the reservations and tables.",
       "tags": [
         "Tech Stack :",
         "Javascript, HTML, CSS, ElephantSQL, Knex, Node, React, React Hooks, Vercel"
