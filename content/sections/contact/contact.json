@@ -1,0 +1,13 @@
+{
+  "name": "",
+  "email": "",
+  "description": "Feel free to click one of the links below.",
+  "image": {
+    "src": "",
+    "alt": "Gatsby Logo"
+  },
+  "socialProfiles": {
+    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "showIcons": true
+  }
+}

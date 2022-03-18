@@ -1,0 +1,99 @@
+{
+  "projects": [
+    {
+      "visible": true,
+      "category": "",
+      "title": "Restaurant Reservation",
+      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
+      "tags": [
+        "Tech Stack :",
+        "Javascript, HTML, CSS, ElephantSQL, Knex, Node, React, React Hooks, Vercel"
+      ],
+      "image": {
+        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "alt": "Quick Setup"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/avthedev/Capstone-Project-Restaurant-Reservation"
+        },
+        {
+          "type": "external",
+          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "",
+      "title": "Pomodoro Timer",
+      "description": "The Pomodoro Timer is a time-management app that provides users with a timer to break down work into intervals of focus and break sessions. Each interval is known as a pomodoro, from the Italian word for tomato, named after the tomato-shaped kitchen timer that Francesco Cirillo used in the late 1980s.",
+      "tags": ["Tech Stack :", "React, HTML, CSS, Node.js"],
+      "image": {
+        "src": "../../images/pomodoro.jpg",
+        "alt": "Quick Setup"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/avthedev/Project_Pomodoro_Timer"
+        },
+        {
+          "type": "external",
+          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "",
+      "title": "We Love Movies",
+      "description": "This project was made for users that needed suggestions for a new movie to watch. You could look up a movie by name and you could see where and when the movie would be shown near you. Also you can have the app suggest a movie to you based on genres.",
+      "tags": [
+        "Tech Stack :",
+        "Javascript, HTML, CSS, ElephantSQL, Knex, Node, React, React Hooks, Vercel, Bootstrap"
+      ],
+      "image": {
+        "src": "../../images/movie.jpg",
+        "alt": "Quick Setup"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/avthedev/We-Love-Movies-Project"
+        },
+        {
+          "type": "external",
+          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "",
+      "title": "Flashcard App",
+      "description": "This Flashcards Project is an app meant to help users study online. Teachers can use this app to create decks of flash cards for the subjects that they teach, and students can study the decks.",
+      "tags": ["Tech Stack :", "Javascript, React"],
+      "image": {
+        "src": "../../images/flashcard.png",
+        "alt": "Extendable Layout"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/avthedev/Flashcard_React"
+        },
+        {
+          "type": "external",
+          "url": "https://project-flashcard-app-gamma.vercel.app/"
+        }
+      ]
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "Visit on Github",
+    "url": "https://github.com/avthedev"
+  }
+}

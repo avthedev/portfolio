@@ -1,0 +1,93 @@
+{
+  "interests": [
+    {
+      "label": "Javascript",
+      "image": {
+        "src": "../../images/joystick.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "HTML",
+      "image": {
+        "src": "../../images/notebook.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "CSS",
+      "image": {
+        "src": "../../images/nail-polish.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "React",
+      "image": {
+        "src": "../../images/react.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "NodeJS",
+      "image": {
+        "src": "../../images/gem-stone.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Express",
+      "image": {
+        "src": "../../images/mobile-phone.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "PostgreSQL",
+      "image": {
+        "src": "../../images/gatsby.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Bootstrap",
+      "image": {
+        "src": "../../images/high-voltage.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Postman",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "GitHub",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Mocha + Chai",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "RESTfulAPI",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "+ Load More",
+    "initiallyShownInterests": 5
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "intro": "Hey There!",
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "Welcome to my Portfolio",
+  "subtitle": {
+    "prefix": "You could find more information about me on this ",
+    "highlight": "page",
+    "suffix": "."
+  },
+  "description": "Feel free to browse around.",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": false
+  }
+}
