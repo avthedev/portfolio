@@ -3,56 +3,56 @@
     {
       "label": "Javascript",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "",
         "alt": ""
       }
     },
     {
       "label": "HTML",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "",
         "alt": ""
       }
     },
     {
       "label": "CSS",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "",
         "alt": ""
       }
     },
     {
       "label": "React",
       "image": {
-        "src": "../../images/react.png",
+        "src": "",
         "alt": ""
       }
     },
     {
       "label": "NodeJS",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "",
         "alt": ""
       }
     },
     {
       "label": "Express",
       "image": {
-        "src": "../../images/mobile-phone.png",
+        "src": "",
         "alt": ""
       }
     },
     {
       "label": "PostgreSQL",
       "image": {
-        "src": "../../images/gatsby.png",
+        "src": "",
         "alt": ""
       }
     },
     {
       "label": "Bootstrap",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "",
         "alt": ""
       }
     },
@@ -85,9 +85,5 @@
       }
     }
   ],
-  "button": {
-    "visible": true,
-    "label": "+ Load More",
-    "initiallyShownInterests": 5
-  }
+  "button": {}
 }

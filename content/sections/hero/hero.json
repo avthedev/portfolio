@@ -12,7 +12,7 @@
   },
   "description": "Feel free to browse around.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Github", "Mail"],
+    "from": ["LinkedIn", "Github"],
     "showIcons": false
   }
 }
