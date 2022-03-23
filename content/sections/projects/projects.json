@@ -10,7 +10,7 @@
         "Javascript, HTML, CSS, ElephantSQL, Knex, Node, React, React Hooks, Heroku"
       ],
       "image": {
-        "src": "../../images/res-rev-project.png",
+        "src": "../../images/res-rev-pic2.png",
         "alt": "Quick Setup"
       },
       "links": [
@@ -20,7 +20,7 @@
         },
         {
           "type": "external",
-          "url": "https://res-rev-project.herokuapp.com/"
+          "url": "https://capstone-project-restaurant-reservation-frontend.vercel.app/"
         }
       ]
     },
