@@ -1,13 +1,13 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
+    "siteUrl": "https://anonv-portfolio.herokuapp.com/",
     "title": "Portfolio Anon Vanichyanukroh",
     "titleTemplate": "%s · Portfolio Minimal",
     "description": "A portfolio for employers to look at.",
     "author": "Anon Vanichyanukroh",
     "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "bio": "Junior Software Developer striving for the best",
     "social": {
       "github": "https://github.com/avthedev",
       "linkedin": "https://www.linkedin.com/in/anon-vanichyanukroh/",
@@ -25,13 +25,13 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume",
-        "url": "/resume.pdf"
+        "url": "/AV-RESUME-SWE.pdf"
       },
       "footer": []
     },
     "featureToggles": {
       "useDarkModeAsDefault": false,
-      "useDarkModeBasedOnUsersPreference": true,
+      "useDarkModeBasedOnUsersPreference": false,
       "useCookieBar": false
     }
   }
