@@ -10,7 +10,7 @@
         "Javascript, HTML, CSS, ElephantSQL, Knex, Node, React, React Hooks, Heroku"
       ],
       "image": {
-        "src": "../../images/res-rev-pic2.png",
+        "src": "../../images/res-dash.png",
         "alt": "Quick Setup"
       },
       "links": [
@@ -47,11 +47,35 @@
     {
       "visible": true,
       "category": "",
+      "title": "We Love Movies Project",
+      "description": "This project was made for users that needed suggestions for a new movie to watch. You could look up a movie by name and you could see where and when the movie would be shown near you. Also you can have the app suggest a movie to you based on genres.",
+      "tags": [
+        "Tech Stack :",
+        "Javascript, HTML, CSS, ElephantSQL, Knex, Node, React, Vercel"
+      ],
+      "image": {
+        "src": "../../images/ss.png",
+        "alt": "Quick Setup"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/avthedev/We-Love-Movies-Project"
+        },
+        {
+          "type": "external",
+          "url": "https://avwelovemovies.vercel.app/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "",
       "title": "Pomodoro Timer",
       "description": "The Pomodoro Timer is a time-management app that provides users with a timer to break down work into intervals of focus and break sessions. Each interval is known as a pomodoro, from the Italian word for tomato, named after the tomato-shaped kitchen timer that Francesco Cirillo used in the late 1980s.",
       "tags": ["Tech Stack :", "Javascript, React, React Hooks, HTML, CSS"],
       "image": {
-        "src": "../../images/pomodoro-ss.png",
+        "src": "../../images/pomo-pic.png",
         "alt": "Quick Setup"
       },
       "links": [
@@ -75,10 +99,6 @@
         {
           "type": "github",
           "url": "https://github.com/avthedev/Flashcard_React"
-        },
-        {
-          "type": "external",
-          "url": "https://project-flashcard-app-gamma.vercel.app/"
         }
       ]
     }
