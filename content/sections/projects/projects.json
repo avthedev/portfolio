@@ -7,7 +7,7 @@
       "description": "This is a project made for a restaurant to use for taking and keeping track of reservations, along with their tables and past reservations. The layout is meant to be user friendly and intuitive. This is for restaurant use and not ready for customers, because they would have access to manipulate the reservations and tables.",
       "tags": [
         "Tech Stack :",
-        "JavaScript, HTML, CSS, ElephantSQL, Knex, Node, React, React Hooks, Heroku"
+        "JavaScript, HTML/CSS, Bootstrap, ElephantSQL, Knex, Node, React, React Hooks, Heroku, Vercel"
       ],
       "image": {
         "src": "../../images/res-dash.png",
@@ -28,10 +28,10 @@
       "visible": true,
       "category": "",
       "title": "GrubDash",
-      "description": "This project was made for users that needed suggestions for ordering food. The app will suggest some dishes from local restaurants that deliver and show the user where they can order them from, how much they cost, and what the dish's description would be. Restaurants may also add new dishes right through the app.",
+      "description": "GrubDash was made for users that needed suggestions for ordering food. The app will suggest some dishes from local restaurants that deliver and show the user where they can order them from, how much they cost, and what the dish's description would be. Restaurants may also add new dishes right through the app.",
       "tags": [
         "Tech Stack :",
-        "JavaScript, React, HTML, CSS, ElephantSQL, Knex, Node"
+        "JavaScript, React, HTML/CSS, ElephantSQL, Knex, Node"
       ],
       "image": {
         "src": "../../images/grubdashss.png",
@@ -47,11 +47,11 @@
     {
       "visible": true,
       "category": "",
-      "title": "We Love Movies Project",
-      "description": "This project was made for users that needed suggestions for a new movie to watch. You could look up a movie by name and you could see where and when the movie would be shown near you. Also you can have the app suggest a movie to you based on genres.",
+      "title": "We Love Movies",
+      "description": "We Love Movies was made for users that needed suggestions for a new movie to watch. You could look up a movie by name and you could see where and when the movie would be shown near you. Also you can have the app suggest a movie to you based on genres.",
       "tags": [
         "Tech Stack :",
-        "JavaScript, HTML, CSS, ElephantSQL, Knex, Node, React, Vercel"
+        "JavaScript, HTML/CSS, ElephantSQL, Knex, Node, React, Vercel"
       ],
       "image": {
         "src": "../../images/ss.png",
@@ -61,10 +61,6 @@
         {
           "type": "github",
           "url": "https://github.com/avthedev/We-Love-Movies-Project"
-        },
-        {
-          "type": "external",
-          "url": "https://avwelovemovies.vercel.app/"
         }
       ]
     },
@@ -73,7 +69,7 @@
       "category": "",
       "title": "Pomodoro Timer",
       "description": "The Pomodoro Timer is a time-management app that provides users with a timer to break down work into intervals of focus and break sessions. Each interval is known as a pomodoro, from the Italian word for tomato, named after the tomato-shaped kitchen timer that Francesco Cirillo used in the late 1980s.",
-      "tags": ["Tech Stack :", "JavaScript, React, React Hooks, HTML, CSS"],
+      "tags": ["Tech Stack :", "JavaScript, React, React Hooks, HTML/CSS"],
       "image": {
         "src": "../../images/pomo-pic.png",
         "alt": "Quick Setup"
@@ -89,8 +85,8 @@
       "visible": true,
       "category": "",
       "title": "Flashcard App",
-      "description": "This Flashcards Project is an app meant to help users study online. Teachers can use this app to create decks of flash cards for the subjects that they teach, and students can study the decks.",
-      "tags": ["Tech Stack :", "JavaScript, React"],
+      "description": "This is an app meant to help users study online. Teachers can use this app to create decks of flash cards for the subjects that they teach, and students can study the decks.",
+      "tags": ["Tech Stack :", "JavaScript, HTML/CSS, React, Bootstrap"],
       "image": {
         "src": "../../images/flashcard.png",
         "alt": "Extendable Layout"
