@@ -1,5 +1,5 @@
 # Anon's Portfolio
 
-#### Software Developer.
+#### Software Developer
 
 These are my works
