@@ -4,13 +4,13 @@
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "Welcome to my Portfolio",
+  "title": "I'm Anon Vanichyanukroh",
   "subtitle": {
-    "prefix": "You could find more information about me on this ",
-    "highlight": "page",
+    "prefix": "I solve technological problems and build things for the ",
+    "highlight": "web",
     "suffix": "."
   },
-  "description": "Feel free to browse around.",
+  "description": "Software Developer based in California.",
   "socialProfiles": {
     "from": ["LinkedIn", "Github"],
     "showIcons": false
