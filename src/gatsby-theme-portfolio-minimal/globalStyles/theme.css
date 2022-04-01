@@ -1,6 +1,6 @@
 body[data-theme="lightTheme"] {
   --primary-color: #000000;
-  --secondary-color: #f1b51c;
+  --secondary-color: #9ef7e0;
   --tertiary-color: #f2f2f2;
   --text-color: #000000;
   --subtext-color: #555555;
@@ -14,7 +14,7 @@ body[data-theme="lightTheme"] {
 
 body[data-theme="darkTheme"] {
   --primary-color: #fafafa;
-  --secondary-color: #2a2926;
+  --secondary-color: #2a2626;
   --tertiary-color: #252525;
   --text-color: rgba(255, 255, 255, 0.87);
   --subtext-color: #aaaaaa;
